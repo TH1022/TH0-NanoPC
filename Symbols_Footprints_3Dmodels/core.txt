@@ -1,0 +1,5 @@
+F/D 1GHz  (F security activated)
+C/A 650MHz (C sercurity activated)
+STM32MP135DAE3/7 14mm x 14mm (0.8 mm pitch) - 289 pin LFBGA
+STM32MP135DAF7/7T 11mm x 11mm (0.5 mm pitch) - 320 pin TFBGA 
+STM32MP135DAG 0.9mm x 0.9mm (0.5 mm pitch)   - 289 pin TFBGA
